@@ -1,0 +1,22 @@
+body{
+	width:1090px;
+	margin:0 auto;
+}
+
+body img{
+	margin: 7px;
+	border: 2px solid #000
+}
+
+.go{
+	display: block;
+	width: 176px;
+	height: 42px;
+	margin: 25% auto auto auto;
+	background: #000;
+	color: #fff;
+	font: 40px/40px 'Ropa Sans', sans-serif, #fff;
+	text-decoration: none;
+	padding: 10px;
+
+}
